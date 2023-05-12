@@ -10,7 +10,7 @@ What does script do:
 - pushes configuration back to CW NI
 
 If ASN pattern should be 41346|48372|34623|80481 run it with:
-python3 cw_ni_ASpath_mod.py  --key xxx --keyid yyy --ASNs "41346|48372|34623|80481" 
+<b>python3 cw_ni_ASpath_mod.py  --key xxx --keyid yyy --ASNs "41346|48372|34623|80481"</b>
 where ASNs need to be in quotes, rest or params as in original documentation
 
 For key and keyid - need to generate API key and API Key identifier (ID) in CW NI user account.
