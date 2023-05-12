@@ -1,7 +1,7 @@
 
-<B>Crosswork Network Insights (CW NI) AS path pattern modification script</B>
+<B>Cisco Crosswork Network Insights (CW NI) AS path pattern modification script</B>
 
-CW NI can give an alarm if route ASN list contains some specific ASN. For that to happen user needs to configure "AS path pattern"
+CW NI can give an alarm if route AS path contains some specific ASN. For that to happen user needs to configure "AS path pattern"
 This script was created to automate AS path pattern configuration.
 
 What does script do:
